@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794668225867",
+    "firebase_url": "https://gecfirebaseproject-9560b-default-rtdb.firebaseio.com",
+    "project_id": "gecfirebaseproject-9560b",
+    "storage_bucket": "gecfirebaseproject-9560b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794668225867:android:ed5f9e4712e7b1f3ffc4ce",
+        "android_client_info": {
+          "package_name": "com.example.gec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794668225867-rvoh1gc39iddv9dup0q7damobr12r92s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gec",
+            "certificate_hash": "d953cb1b648606238a4b9a709f28c06afdf1af01"
+          }
+        },
+        {
+          "client_id": "794668225867-ek45micoq9jnsdr5m4qr1v6a7hcvtr18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs1SbSTZa_IeB_TfajhKpnJNQ58C950KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794668225867-ek45micoq9jnsdr5m4qr1v6a7hcvtr18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
